@@ -1,0 +1,32 @@
+body,html{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.inputs{
+    font-weight: bold;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        z-index: 2;
+        width: 80%;
+        text-align: center;
+}
+
+#addUser{
+    background-color: #f9004d;
+    width: auto;
+    height: auto;
+    font-size: 20px;
+    padding: 15px;
+}
+
+#backToIndex{
+    background-color: #f9004d;
+    width: auto;
+    height: auto;
+    font-size: 20px;
+    padding: 15px;
+}
